@@ -5,7 +5,9 @@ Judul: Klasifikasi Kanker Payudara Menggunakan Oversampling dan Normalisasi
 Identitas:
 
 Nama : R Bagus Ario Arlianda Dwiputa
+
 NIM : A11.2020.12796
+
 Program Studi Teknik Informatika
 
 2. Ringkasan dan Permasalahan Project + Tujuan yang Akan Dicapai + Model/Alur Penyelesaian
