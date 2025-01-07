@@ -5,10 +5,9 @@ Judul: Klasifikasi Kanker Payudara Menggunakan Oversampling dan Normalisasi
 Identitas:
 
 Nama : R Bagus Ario Arlianda Dwiputa
-
 NIM : A11.2020.12796
-
 Program Studi Teknik Informatika
+
 2. Ringkasan dan Permasalahan Project + Tujuan yang Akan Dicapai + Model/Alur Penyelesaian
 Ringkasan
 
@@ -28,32 +27,33 @@ Alur/Model Penyelesaian
 Breast Cancer Diagram.jpg
 Deskripsi Bagan Proses Klasifikasi Kanker Payudara
 1. Mulai
-
 Proses dimulai dengan menentukan tujuan proyek dan merancang alur kerja untuk klasifikasi kanker payudara.
+
 2. Pengumpulan Data
-
 Dataset diambil dari UCI Machine Learning Repository atau sumber lain yang relevan. Data ini berisi informasi tentang berbagai fitur tumor yang diukur dari gambar digital massa tumor.
+
 3. Eksplorasi Data (EDA)
-
 Eksplorasi Data dan Analisis dilakukan untuk memahami struktur dataset, mendeteksi pola, outlier, dan hubungan antara fitur. Teknik visualisasi seperti histogram, plot distribusi, dan heatmap korelasi digunakan dalam langkah ini.
+
 4. Cleaning Data
-
 Data dibersihkan dengan mengatasi nilai yang hilang, menangani outlier, dan memastikan bahwa data bebas dari inkonsistensi atau kesalahan.
+
 5. Data Construction
-
 Fitur baru dapat dibangun atau fitur yang ada dapat diproses lebih lanjut (misalnya, normalisasi, encoding, atau scaling) untuk memastikan model dapat memanfaatkan informasi dengan lebih baik.
+
 6. Data Splitting
-
 Data dibagi menjadi dua set: set pelatihan untuk melatih model dan set pengujian untuk mengevaluasi performa model. Umumnya, pembagian ini dilakukan dalam rasio seperti 80:20 atau 70:30.
+
 7. Modeling
-
 Model klasifikasi dibangun menggunakan algoritma tertentu (misalnya, K-Nearest Neighbors). Proses ini melibatkan pemilihan parameter dan pelatihan model dengan data pelatihan.
+
 8. Evaluasi Model
-
 Model yang telah dilatih dievaluasi menggunakan set pengujian. Metrik evaluasi seperti akurasi, presisi, recall, F1-score, dan confusion matrix digunakan untuk menilai performa model.
-9. Selesai
 
+9. Selesai
 Setelah evaluasi, langkah terakhir adalah menarik kesimpulan dari hasil dan, jika perlu, melakukan iterasi ulang untuk meningkatkan model berdasarkan hasil evaluasi.
+
+
 3. Penjelasan Dataset, EDA, dan Proses Features Dataset
 Dataset
 
@@ -89,6 +89,7 @@ Performa model diukur menggunakan metrik berikut:
     F1-score
 
 Hasil evaluasi menunjukkan bahwa model KNN dengan oversampling dan normalisasi memberikan performa yang optimal.
+
 6. Diskusi Hasil dan Kesimpulan
 Diskusi Hasil
 
