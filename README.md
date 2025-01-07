@@ -4,6 +4,8 @@ Judul/Topik Project dan Identitas Lengkap
 
 Judul: Klasifikasi Kanker Payudara Menggunakan Oversampling dan Normalisasi
 
+Dataset : https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
+
 
 Identitas:
 
@@ -12,6 +14,7 @@ Nama : R Bagus Ario Arlianda Dwiputa
 NIM : A11.2020.12796
 
 Program Studi Teknik Informatika
+
 
 
 
@@ -30,6 +33,8 @@ Tujuan yang Akan Dicapai
 
 
 Model Penyelesaian
+
+
 Mulai -> Load Data -> EDA -> Cleaning Data -> Data Construction -> Data Splitting -> Modelling -> Evaluasi Model -> Selesai
 
 
