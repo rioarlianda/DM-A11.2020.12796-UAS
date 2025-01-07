@@ -3,6 +3,8 @@ Dokumentasi Project Data Mining - Klasifikasi Kanker Payudara
 Judul/Topik Project dan Identitas Lengkap
 
 Judul: Klasifikasi Kanker Payudara Menggunakan Oversampling dan Normalisasi
+
+
 Identitas:
 
 Nama : R Bagus Ario Arlianda Dwiputa
