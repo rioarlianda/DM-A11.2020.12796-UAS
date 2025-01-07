@@ -70,6 +70,7 @@ Diskusi Hasil dan Kesimpulan
 Diskusi Hasil
 
 Model klasifikasi berbasis KNN menunjukkan performa yang baik dalam membedakan antara sel kanker ganas dan jinak. Teknik oversampling dan normalisasi berperan penting dalam meningkatkan akurasi dan stabilitas model.
+
 Kesimpulan
 
     Model KNN berhasil mengklasifikasikan kanker payudara dengan akurasi yang baik.
